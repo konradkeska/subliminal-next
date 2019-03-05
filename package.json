@@ -1,0 +1,22 @@
+{
+    "name": "subliminal-next",
+    "displayName": "Subliminal Next",
+    "description": "Theme heavily influenced by Subliminal theme, with a taste of space.",
+    "version": "0.0.1",
+    "publisher": "konradkeska",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Subliminal Next",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Subliminal Next-color-theme.json"
+            }
+        ]
+    }
+}

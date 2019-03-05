@@ -4,6 +4,7 @@
   "description": "Basically a subjectively reworked version of awesome `Subliminal` theme made by Dan Abramov.",
   "version": "0.0.1",
   "publisher": "keskakonrad",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.31.0"
   },
@@ -12,7 +13,10 @@
   ],
   "keywords": [
     "Color theme",
-    "Dark theme"
+    "Dark theme",
+    "dark",
+    "subliminal",
+    "sublime"
   ],
   "repository": {
     "type": "git",

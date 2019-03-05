@@ -7,7 +7,9 @@
 
 ## About
 
-Basically a subjectively reworked version of awesome `Subliminal` theme made by Dan Abramov. After using Subliminal for a while I began adding consecutive adjustments and finally came out with a basically new theme.
+First of, this theme was supposed to be only for my personal use, but later after coming to the conclusion that some people might find it useful, I decided to share it.
+
+It is basically a subjectively revamped version of awesome [Subliminal](https://github.com/gaearon/subliminal) theme made by [Dan Abramov](https://github.com/gaearon). After using it for a while I began adding consecutive adjustments and finally came out with a basically new theme.
 
 Major changes:
 
@@ -16,7 +18,7 @@ Major changes:
 - small syntax modifications
 - support for other languages
 
-I decided to made this theme because I really liked the idea behind Subliminal but wanted different look and more diverse functionality related to my needs (not only JavaScript focused).
+I decided to make this theme because I really like the idea behind Subliminal but wanted different look and more diverse functionality related to my needs (not only JavaScript focused).
 
 ## Font
 

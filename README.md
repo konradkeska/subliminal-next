@@ -18,7 +18,7 @@ Major changes:
 - small syntax modifications
 - support for other languages
 
-I decided to make this theme because I really like the idea behind Subliminal but wanted different look and more diverse functionality related to my needs (not only JavaScript focused).
+I decided to make this theme because I really like the idea behind Subliminal but wanted slightly more electrifying look and more diverse functionality related to my needs (not only JavaScript focused).
 
 ## Font
 

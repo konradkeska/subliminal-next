@@ -3,7 +3,7 @@
   "displayName": "Subliminal Next",
   "description": "Basically a subjectively reworked version of awesome `Subliminal` theme made by Dan Abramov.",
   "version": "0.1.0",
-  "publisher": "keskakonrad",
+  "publisher": "konradkeska",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.31.0"

@@ -30,8 +30,8 @@
     "editorGutter.background": "#232830",
     "editorHoverWidget.background": "#21252B",
     "editorHoverWidget.border": "#282D38",
-    "editorIndentGuide.activeBackground": "#3B404840",
-    "editorIndentGuide.background": "#3B404820",
+    "editorIndentGuide.activeBackground": "#232830", // 3b404840
+    "editorIndentGuide.background": "#232830", // 3b404820
     "editorLineNumber.activeForeground": "#c0c5cd80",
     "editorLineNumber.foreground": "#3B404880",
     "editorMarkerNavigation.background": "#21252b",
@@ -48,7 +48,7 @@
     "gitDecoration.conflictingResourceForeground": "#FFA5C3",
     "gitDecoration.deletedResourceForeground": "#FFA5C3",
     "gitDecoration.ignoredResourceForeground": "#64727f",
-    "gitDecoration.modifiedResourceForeground": "#9DF2F2",
+    "gitDecoration.modifiedResourceForeground": "#8CD8D8",
     "gitDecoration.untrackedResourceForeground": "#95E5A6",
     "input.background": "#1D2228",
     "input.border": "#282D38",
@@ -88,16 +88,16 @@
     "tab.inactiveBackground": "#1f242b",
     "tab.inactiveForeground": "#768796",
     "terminal.ansiBlack": "#252A33",
-    "terminal.ansiBlue": "#9DF2F2",
+    "terminal.ansiBlue": "#8CD8D8",
     "terminal.ansiBrightBlack": "#7f7f7f",
-    "terminal.ansiBrightBlue": "#9DF2F2",
-    "terminal.ansiBrightCyan": "#9DF2F2",
+    "terminal.ansiBrightBlue": "#8CD8D8",
+    "terminal.ansiBrightCyan": "#8CD8D8",
     "terminal.ansiBrightGreen": "#95E5A6",
     "terminal.ansiBrightMagenta": "#FFA5C3",
     "terminal.ansiBrightRed": "#FFA5C3",
     "terminal.ansiBrightWhite": "#d4d4d4",
     "terminal.ansiBrightYellow": "#FFDFA5",
-    "terminal.ansiCyan": "#9DF2F2",
+    "terminal.ansiCyan": "#8CD8D8",
     "terminal.ansiGreen": "#95E5A6",
     "terminal.ansiMagenta": "#FFA5C3",
     "terminal.ansiRed": "#FFA5C3",
@@ -151,7 +151,7 @@
       "name": "Types, Tags",
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#9DF2F2",
+        "foreground": "#8CD8D8",
         "fontStyle": "underline"
       }
     },
@@ -170,8 +170,22 @@
       }
     },
     {
+      "name": "Tags",
+      "scope": "entity.name.tag",
+      "settings": {
+        "foreground": "#7f7f7f"
+      }
+    },
+    {
+      "name": "Components",
+      "scope": "support.class.component",
+      "settings": {
+        "foreground": "#FFDFA5"
+      }
+    },
+    {
       "name": "Function Call",
-      "scope": "variable.function, source meta.function-call entity.name.function, meta.class meta.group.braces.curly meta.function-call variable.function, meta.class meta.field.declaration meta.function-call entity.name.function, variable.function.constructor, entity.name.tag, meta.block meta.var.expr meta.function-call entity.name.function, support.function.console, meta.function-call support.function, meta.property.class variable.other.class",
+      "scope": "variable.function, source meta.function-call entity.name.function, meta.class meta.group.braces.curly meta.function-call variable.function, meta.class meta.field.declaration meta.function-call entity.name.function, variable.function.constructor, meta.block meta.var.expr meta.function-call entity.name.function, support.function.console, meta.function-call support.function, meta.property.class variable.other.class",
       "settings": {
         "foreground": "#FFDFA5"
       }
@@ -195,7 +209,7 @@
       "name": "Primitive types",
       "scope": "support.type.primitive",
       "settings": {
-        "foreground": "#9DF2F2",
+        "foreground": "#8CD8D8",
         "fontStyle": "italic"
       }
     },
@@ -273,7 +287,7 @@
       "name": "Literal",
       "scope": "constant.language, constant.numeric, support.constant, constant.character, constant.other.color, constant.other.symbol, constant.other.key",
       "settings": {
-        "foreground": "#9DF2F2"
+        "foreground": "#8CD8D8"
       }
     },
     {
@@ -339,7 +353,7 @@
     {
       "scope": "token.debug-token",
       "settings": {
-        "foreground": "#9DF2F2"
+        "foreground": "#8CD8D8"
       }
     },
     {

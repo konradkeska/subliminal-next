@@ -1,34 +1,39 @@
 {
-  "name": "subliminal-next",
-  "displayName": "Subliminal Next",
-  "description": "Basically a subjectively revamped, more electrifying version of awesome `Subliminal` theme made by Dan Abramov.",
-  "version": "0.6.0",
-  "publisher": "konradkeska",
-  "icon": "images/icon.png",
-  "engines": {
-    "vscode": "^1.31.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "Color theme",
-    "Dark theme",
-    "dark",
-    "subliminal",
-    "sublime"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/konradkeska/subliminal-next"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Subliminal Next",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Subliminal Next-color-theme.json"
-      }
-    ]
-  }
+	"name": "subliminal-next",
+	"displayName": "Subliminal Next",
+	"description": "Basically a subjectively revamped, more electrifying version of awesome `Subliminal` theme made by Dan Abramov.",
+	"version": "0.6.0",
+	"publisher": "konradkeska",
+	"icon": "images/icon.png",
+	"engines": {
+		"vscode": "^1.31.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Color theme",
+		"Dark theme",
+		"dark",
+		"subliminal",
+		"sublime"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/konradkeska/subliminal-next"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Subliminal Next",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Subliminal Next-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "c69f8a1f-b356-4817-a18e-94b39e46060d",
+		"publisherId": "b1b27245-9a20-491c-bd78-b91e8b3753ae",
+		"publisherDisplayName": "konradkeska"
+	}
 }

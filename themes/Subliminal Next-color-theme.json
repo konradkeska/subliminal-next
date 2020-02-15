@@ -179,7 +179,7 @@
     },
     {
       "name": "Decorators",
-      "scope": "meta.decorator",
+      "scope": "meta.decorator, meta.decorator.tsx, meta.decorator.jsx",
       "settings": {
         "foreground": "#7f7f7f"
       }

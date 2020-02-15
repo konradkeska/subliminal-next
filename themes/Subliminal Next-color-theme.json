@@ -179,7 +179,7 @@
     },
     {
       "name": "Decorators",
-      "scope": "meta.decorator, meta.decorator.tsx, meta.decorator.jsx",
+      "scope": "meta.decorator, meta.decorator.tsx variable.other.readwrite.tsx, meta.decorator.tsx variable.other.object.tsx, meta.decorator.tsx variable.other.property.tsx, meta.decorator.jsx variable.other.readwrite.jsx, meta.decorator.jsx variable.other.object.jsx, meta.decorator.jsx variable.other.property.jsx",
       "settings": {
         "foreground": "#7f7f7f"
       }

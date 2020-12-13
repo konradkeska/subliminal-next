@@ -34,7 +34,7 @@ We want to highlight only what is important and therefore increase our productiv
 ## Font
 
 The font I use in the theme samples section is **Dank Mono** which is available to purchase - [here](https://dank.sh/).
-
+fhgm7ucifk6yq56w4ua4bqratvi2srxi265crzwbegxhuki6oyla
 ## Syntax support (What I've tested so far)
 
 - **JS / JSX**

@@ -2,7 +2,7 @@
 	"name": "subliminal-next",
 	"displayName": "Subliminal Next",
 	"description": "Basically a subjectively revamped, more electrifying version of awesome `Subliminal` theme made by Dan Abramov.",
-	"version": "0.18.0",
+	"version": "0.19.0",
 	"publisher": "konradkeska",
 	"icon": "images/icon.png",
 	"engines": {
